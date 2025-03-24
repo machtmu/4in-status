@@ -775,6 +775,32 @@
 				)
 			)
 		)
+		(property "JLC Link" "https://jlcpcb.com/partdetail/TORCH-CT41G_0603_2X1_50V_0_1_F_K_N/C125205"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8f4e6c9f-ebde-49d2-9fbb-466b22df2357")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C125205"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d51ffc12-00b1-40b6-8ce2-54a81f039a27")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/0681ad3c-cddf-46fb-8126-b6c8d45bcfcf")
 		(sheetname "/")
@@ -972,6 +998,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLC Link" "https://jlcpcb.com/partdetail/TORCH-CT41G_0603_2X1_50V_0_1_F_K_N/C125205"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b5e3babd-7d65-445e-ae49-38181e0eccc6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C125205"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "04d45af1-9c53-4bc4-88ca-48e498b6b75b")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -1177,6 +1229,32 @@
 				)
 			)
 		)
+		(property "JLC Link" "https://jlcpcb.com/partdetail/1942-CL10B104KA8NNNC/C1590"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7b385829-7a98-4a21-ace9-58b38ffb059a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C1590"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "51b63fa1-1fc1-4ae9-8d6b-a7f4f35b35e0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/d0331135-ceba-4833-8f60-7491320c76f5")
 		(sheetname "/")
@@ -1374,6 +1452,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLC Link" "https://jlcpcb.com/partdetail/1958-0603B224K250NT/C1606"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8daef140-23ae-44b1-9d7c-0857e24891fa")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C1606"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3be3d534-cc76-433c-a7a1-031d3017ffd6")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -1579,6 +1683,32 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C2889391"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d5417740-343e-40ee-acc4-c36180146585")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLC Link" "https://jlcpcb.com/partdetail/Vo-0603_5_1K/C2889391"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b7597c85-9bca-4bd3-a237-1dd86ff35c77")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/b84567bd-3312-4a14-88a4-a2db5d06e14c")
 		(sheetname "/")
@@ -1780,6 +1910,32 @@
 				)
 			)
 		)
+		(property "JLC Link" "https://jlcpcb.com/partdetail/TORCH-CT41G_0603_2X1_50V_0_1_F_K_N/C125205"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "50a57520-0a09-4f1c-8a49-a16cc094358d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C125205"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "04163a39-4fd9-483c-989f-b5c89b31c41b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/51616669-72d0-4d7e-b5c0-76338f856e0b")
 		(sheetname "/")
@@ -1977,6 +2133,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLC Link" "https://jlcpcb.com/partdetail/Made_inChina-2_54mm_12P/C36717"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7bace934-439d-4c91-b904-13b9c4001783")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C36717"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b80b5c1e-ebaa-4d16-ac7b-a2afd9afc778")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -2427,6 +2609,32 @@
 				)
 			)
 		)
+		(property "JLC Link" "https://jlcpcb.com/partdetail/TORCH-CT41G_0603_2X1_50V_0_1_F_K_N/C125205"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b63d74cf-6b95-42f6-b663-edea5d446b2f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C125205"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5de63ad8-199d-4951-9f37-ffd0b072e972")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/e4349add-7ff8-42a4-8d9c-c31661144cf1")
 		(sheetname "/")
@@ -2624,6 +2832,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLC Link" "https://jlcpcb.com/partdetail/1944-CL10A105KO8NNNC/C1592"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "da4c2f3f-f30f-4f1d-9dbc-9785f1461ef6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C1592"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2ef4f84d-68c6-48de-85bd-8b3fd4d3b5d0")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -3283,6 +3517,32 @@
 				)
 			)
 		)
+		(property "JLC Link" "https://jlcpcb.com/partdetail/AbraconLlc-ABM8_272T3/C20625731"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ab3e286b-1d17-444b-bd0a-b4650e7d87fa")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C20625731"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "32a3d19d-ada0-40fc-80b8-2240e56c0f8e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "ABM8-272-T3_ABR")
 		(path "/e5362929-ab26-477c-8813-6530e0c643f6")
 		(sheetname "/")
@@ -3596,6 +3856,32 @@
 				)
 			)
 		)
+		(property "JLC Link" "https://jlcpcb.com/partdetail/TORCH-CT41G_0603_2X1_50V_0_1_F_K_N/C125205"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "52f0f78b-f20d-4733-875d-936810397368")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C125205"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "31942230-873f-411e-b38e-41937e14ae9a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/2890c4ec-a71e-4722-8a5c-d9e101d906db")
 		(sheetname "/")
@@ -3793,6 +4079,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLC Link" "https://jlcpcb.com/partdetail/1958-0603B224K250NT/C1606"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "265a32b9-c610-4102-9d1a-1af6866763d7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C1606"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d0f70a3f-1a63-43ec-a129-8233092c87aa")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -3998,6 +4310,32 @@
 				)
 			)
 		)
+		(property "JLC Link" "https://jlcpcb.com/partdetail/25933-0603WAF270JT5E/C25190"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "502ebc86-e68d-4b84-9c97-44be426fd3ed")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C25190"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f89e5e71-27d9-416a-921f-2fe520002b9b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/95bb91d2-ecd2-4753-b391-bb542ed3cf6f")
 		(sheetname "/")
@@ -4199,6 +4537,32 @@
 				)
 			)
 		)
+		(property "JLC Link" "https://jlcpcb.com/partdetail/Yageo-CC0603JRNPO9BN150/C107037"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4e53c8ac-9769-43d2-a096-4698b0ed132a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C107037"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "786ef23e-f761-45c4-b2b1-99ce61793e0c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/648a3be4-ce93-4ba3-93ec-b06005743b7a")
 		(sheetname "/")
@@ -4346,12 +4710,12 @@
 			)
 		)
 	)
-	(footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "88ddfec5-2c66-4c6a-a637-9459f0850ed7")
 		(at 138.05 104.74)
-		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
-		(tags "capacitor handsolder")
+		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
+		(tags "capacitor")
 		(property "Reference" "C6"
 			(at 0 -1.43 0)
 			(layer "F.SilkS")
@@ -4400,70 +4764,96 @@
 				)
 			)
 		)
+		(property "JLC Link" "https://jlcpcb.com/partdetail/1944-CL10A105KO8NNNC/C1592"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "302f94bc-8f22-4830-88da-fa51dabb03d1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C1592"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d150c07a-3582-42d2-9d7c-9ea47a881f4e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/d50b3984-ca46-4412-8575-4143ed622198")
 		(sheetname "/")
 		(sheetfile "template.kicad_sch")
 		(attr smd)
 		(fp_line
-			(start -0.146267 -0.51)
-			(end 0.146267 -0.51)
+			(start -0.14058 -0.51)
+			(end 0.14058 -0.51)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "910d91bd-82ab-452e-946a-fc686773cbbd")
+			(uuid "ffd4b603-8974-429c-8439-501a1c33c0f1")
 		)
 		(fp_line
-			(start -0.146267 0.51)
-			(end 0.146267 0.51)
+			(start -0.14058 0.51)
+			(end 0.14058 0.51)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "70f35461-aa22-463b-adaf-f058bf7e3f06")
+			(uuid "848c3d57-2844-4157-9f2e-67b7c89978d7")
 		)
 		(fp_line
-			(start -1.65 -0.73)
-			(end 1.65 -0.73)
+			(start -1.48 -0.73)
+			(end 1.48 -0.73)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "9f53f602-9bfc-4fdb-b717-e350a9447c25")
+			(uuid "5966a9cb-e3e1-4490-9d7f-e4e6cde24749")
 		)
 		(fp_line
-			(start -1.65 0.73)
-			(end -1.65 -0.73)
+			(start -1.48 0.73)
+			(end -1.48 -0.73)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "dd94317c-92bd-478b-9d9a-90f24ec3f44f")
+			(uuid "f49bca39-b707-4ee3-874d-3ff5a424da0c")
 		)
 		(fp_line
-			(start 1.65 -0.73)
-			(end 1.65 0.73)
+			(start 1.48 -0.73)
+			(end 1.48 0.73)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "53937096-446f-4ef3-83a1-67b2e40fe6c5")
+			(uuid "e1c8ca30-bc3b-49cd-9a7d-e4f5045a1064")
 		)
 		(fp_line
-			(start 1.65 0.73)
-			(end -1.65 0.73)
+			(start 1.48 0.73)
+			(end -1.48 0.73)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "ec844ce6-f55d-4f15-ab0d-e4a1234f2a56")
+			(uuid "4e35ab5d-4c85-42dd-bade-7433b149e6fb")
 		)
 		(fp_line
 			(start -0.8 -0.4)
@@ -4473,7 +4863,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "afd4569a-7df9-4007-b609-2e7351103591")
+			(uuid "29671098-ab47-4454-bbef-3f54ec4293cc")
 		)
 		(fp_line
 			(start -0.8 0.4)
@@ -4483,7 +4873,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "18c78c3a-6f82-4bbd-8e07-ba44a98e6dbe")
+			(uuid "3553807a-64ec-475f-9136-33314bc4ddbd")
 		)
 		(fp_line
 			(start 0.8 -0.4)
@@ -4493,7 +4883,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "acc5eac4-6d32-4e9b-8d6a-4e43a200e247")
+			(uuid "c5584895-53c5-4336-920b-65524a10e7a0")
 		)
 		(fp_line
 			(start 0.8 0.4)
@@ -4503,7 +4893,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "d2565fd0-b555-453c-8c0a-3c01f7c31131")
+			(uuid "8f23c55e-740a-43e0-a141-bdf2e6e2f15a")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -4517,8 +4907,8 @@
 			)
 		)
 		(pad "1" smd roundrect
-			(at -0.8625 0)
-			(size 1.075 0.95)
+			(at -0.775 0)
+			(size 0.9 0.95)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
 			(net 21 "GND")
@@ -4526,8 +4916,8 @@
 			(uuid "76571f72-2c88-45f4-953e-6a5c42fb428c")
 		)
 		(pad "2" smd roundrect
-			(at 0.8625 0)
-			(size 1.075 0.95)
+			(at 0.775 0)
+			(size 0.9 0.95)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
 			(net 12 "+1V1")
@@ -4597,6 +4987,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLC Link" "https://jlcpcb.com/partdetail/Yageo-CC0603JRNPO9BN150/C107037"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2071a21d-90b9-4152-b865-ad1a46b86d3d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C107037"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b8434dda-b3aa-42dd-976d-82ad3f44294d")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -4797,6 +5213,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLC Link" "https://jlcpcb.com/partdetail/MicrochipTech-MCP25625T_EML/C191253"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "21c7996c-931c-497c-90fb-654320d4af98")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "     C191253"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e1286362-6393-40ae-bde1-46ce751a15cf")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -6955,6 +7397,32 @@
 				)
 			)
 		)
+		(property "JLC Link" "https://jlcpcb.com/partdetail/YangxingTech-X322516MLB4SI/C13738"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2a33266f-127a-4e58-b41d-98736b58d2a8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C13738"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3173afd0-f290-4e29-8617-b4e59b124c73")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/ec565e70-1ec3-4f2f-ab9e-9fd57b775f66")
 		(sheetname "/")
 		(sheetfile "template.kicad_sch")
@@ -7149,6 +7617,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLC Link" "https://jlcpcb.com/partdetail/Korean_HropartsElec-TF01A/C91145"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a1ce1247-b30f-4bff-ae25-369b30d85bfc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C91145"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d6793a7b-ae18-46c5-b49a-61535678a26a")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -7646,6 +8140,32 @@
 				)
 			)
 		)
+		(property "JLC Link" "https://jlcpcb.com/partdetail/2043-CL10A106MQ8NNNC/C1691"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2a189caf-d7ab-418b-8b81-c60819d1eb47")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C1691"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0ab3b308-3852-4146-94e7-a9b2a5ba66e9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/173ba057-a1e2-45bd-8738-dd64f2f0040c")
 		(sheetname "/")
@@ -7843,6 +8363,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLC Link" "https://jlcpcb.com/partdetail/25933-0603WAF270JT5E/C25190"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cf43e14d-a46d-4fa4-a301-65ba4a92541b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C25190"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0c6607fd-2625-4d45-8038-38744f4df384")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -9119,6 +9665,32 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C2889391"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b0a355f8-5e0a-44d9-bc54-547a5fa86b97")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLC Link" "https://jlcpcb.com/partdetail/Vo-0603_5_1K/C2889391"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "05bb8f50-4181-459c-9349-5f6b096ebd02")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/2e3a78c1-4c61-40fb-bd54-2b7202f0d261")
 		(sheetname "/")
@@ -9316,6 +9888,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLC Link" "https://jlcpcb.com/partdetail/TORCH-CT41G_0603_2X1_50V_0_1_F_K_N/C125205"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5e77e70d-0da6-44d2-9cc9-c9b280a52a6b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C125205"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ba6591cf-5e1c-43ee-99ce-dfd7fdd7aba8")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -9521,6 +10119,32 @@
 				)
 			)
 		)
+		(property "JLC Link" "https://jlcpcb.com/partdetail/1942-CL10B104KA8NNNC/C1590"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1c1c2c55-fda3-478a-a23e-f00c6f8d44df")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C1590"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5b9e39a8-baf2-4318-b9ea-017011a436a4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/53594f52-cc6e-4bdb-8019-e4260d2ac7de")
 		(sheetname "/")
@@ -9718,6 +10342,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLC Link" "https://jlcpcb.com/partdetail/TORCH-CT41G_0603_2X1_50V_0_1_F_K_N/C125205"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2b9ec9d4-9be2-48db-86b2-db4262e19361")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C125205"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "71321de2-2543-4bd2-bb63-a2a311f27de9")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -9923,6 +10573,32 @@
 				)
 			)
 		)
+		(property "JLC Link" "https://jlcpcb.com/partdetail/TORCH-CT41G_0603_2X1_50V_0_1_F_K_N/C125205"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ede782fa-9ba1-4423-b325-ce6e0bdd98e0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C125205"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "357e675f-47c0-4477-865a-f4e5e88f4375")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/b74a9e18-aaab-4006-8fbb-c5fdc22b14f8")
 		(sheetname "/")
@@ -10120,6 +10796,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLC Link" "https://jlcpcb.com/partdetail/TORCH-CT41G_0603_2X1_50V_0_1_F_K_N/C125205"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "abb45be1-9b0c-4b81-a845-5434455d0130")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C125205"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0972e97c-0883-4e3f-813b-393adfabae4c")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -10325,6 +11027,32 @@
 				)
 			)
 		)
+		(property "JLC Link" "https://jlcpcb.com/partdetail/TORCH-CT41G_0603_2X1_50V_0_1_F_K_N/C125205"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "23e7f124-c249-4f61-b4cc-d6138676ac91")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C125205"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d3e0d5c6-357d-42d2-8fdf-7c390e0c6529")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/27cf460c-0b19-48e7-83c6-6a4463f5abda")
 		(sheetname "/")
@@ -10472,207 +11200,6 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0603_1608Metric"
-		(layer "F.Cu")
-		(uuid "f6ca3f5f-a609-4934-8f0d-8a91d61cc19d")
-		(at 173.75 111.42 180)
-		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
-		(tags "resistor")
-		(property "Reference" "R7"
-			(at 0 -1.43 0)
-			(layer "F.SilkS")
-			(uuid "36038a38-7636-4d18-92c3-f5515d638ba1")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" "DNF"
-			(at 0 1.43 0)
-			(layer "F.Fab")
-			(uuid "9f84c150-13b4-4a85-9a06-ec6de6063da2")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "421f9496-ce5a-4d28-b938-01deda8d735b")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "f8f07833-b7a3-4802-9f8e-23900f837bfd")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property ki_fp_filters "R_*")
-		(path "/a4ab476f-dd30-4693-aacb-bb4182fb4067")
-		(sheetname "/")
-		(sheetfile "template.kicad_sch")
-		(attr smd)
-		(fp_line
-			(start -0.237258 0.5225)
-			(end 0.237258 0.5225)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "b8ee676a-6783-49ec-8f5a-dee167e89111")
-		)
-		(fp_line
-			(start -0.237258 -0.5225)
-			(end 0.237258 -0.5225)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "f7844a23-2839-449c-8dc1-da3cdc8d8eb0")
-		)
-		(fp_line
-			(start 1.48 0.73)
-			(end -1.48 0.73)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "0ba3d9c1-244a-4136-8716-797de9097371")
-		)
-		(fp_line
-			(start 1.48 -0.73)
-			(end 1.48 0.73)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "e35ea99b-92d2-470c-a5a5-6aadbded281b")
-		)
-		(fp_line
-			(start -1.48 0.73)
-			(end -1.48 -0.73)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "c82333f3-e7e9-4298-8c85-e6a978c66137")
-		)
-		(fp_line
-			(start -1.48 -0.73)
-			(end 1.48 -0.73)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "42a78dd8-96fe-4d6b-b12d-eba25a8f01cb")
-		)
-		(fp_line
-			(start 0.8 0.4125)
-			(end -0.8 0.4125)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "c0e561b3-aec4-4b57-a3c6-1d48c26c573a")
-		)
-		(fp_line
-			(start 0.8 -0.4125)
-			(end 0.8 0.4125)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "171f16c2-f333-4f48-ae92-f4939aca3ee9")
-		)
-		(fp_line
-			(start -0.8 0.4125)
-			(end -0.8 -0.4125)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "c2110d6c-d77c-48a2-b304-45c2125b6da3")
-		)
-		(fp_line
-			(start -0.8 -0.4125)
-			(end 0.8 -0.4125)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "f66bdb3a-e27a-4594-af81-b27ea67075bd")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(uuid "f4cd78a1-449a-4590-8ad5-cdc2e64e2f77")
-			(effects
-				(font
-					(size 0.4 0.4)
-					(thickness 0.06)
-				)
-			)
-		)
-		(pad "1" smd roundrect
-			(at -0.825 0 180)
-			(size 0.8 0.95)
-			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.25)
-			(net 49 "+3.3V")
-			(pintype "passive")
-			(uuid "c7e3fdd1-398d-4b52-ba9c-ecaebab9d36b")
-		)
-		(pad "2" smd roundrect
-			(at 0.825 0 180)
-			(size 0.8 0.95)
-			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.25)
-			(net 46 "/QSPI_SS")
-			(pintype "passive")
-			(uuid "b07838fd-bf52-4d32-90fb-387702f7ffa8")
-		)
-		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-	)
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "f93b684c-27d7-4395-8501-43f489179886")
@@ -10723,6 +11250,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLC Link" "https://jlcpcb.com/partdetail/1942-CL10B104KA8NNNC/C1590"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "aa80a96a-74f3-4f68-aec4-1ddca31ee0cd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C1590"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b2c8199e-a469-40ef-881c-990748f01168")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -13105,36 +13658,12 @@
 		(uuid "dd3d6b10-a05b-45de-bca2-744534e43a10")
 	)
 	(segment
-		(start 172.855 111.405)
-		(end 170.7 111.405)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 46)
-		(uuid "0ab9577b-34c7-4c0a-8f4c-a930e3fb995e")
-	)
-	(segment
 		(start 172.9 111.36)
 		(end 172.855 111.405)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 46)
 		(uuid "2ca67da5-c7f2-4280-a096-3584bdbbb898")
-	)
-	(segment
-		(start 172.925 111.385)
-		(end 172.9 111.36)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 46)
-		(uuid "2f5b067c-15ed-40e4-9fc7-3a556f65aeab")
-	)
-	(segment
-		(start 172.925 111.46)
-		(end 172.925 111.385)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 46)
-		(uuid "e7d108f3-86f5-4fc3-b7a6-33b1216c9c7e")
 	)
 	(segment
 		(start 144.913 70.587)
