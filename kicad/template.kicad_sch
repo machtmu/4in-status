@@ -3716,143 +3716,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Regulator_Linear:NCP1117-1.5_SOT223"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "U"
-				(at -3.81 3.175 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "NCP1117-1.5_SOT223"
-				(at 0 3.175 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Footprint" "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
-				(at 0 5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "http://www.onsemi.com/pub_link/Collateral/NCP1117-D.PDF"
-				(at 2.54 -6.35 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "1A Low drop-out regulator, Fixed Output 1.5V, SOT-223"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "REGULATOR LDO 1.5V"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "SOT?223*TabPin2*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "NCP1117-1.5_SOT223_0_1"
-				(rectangle
-					(start -5.08 -5.08)
-					(end 5.08 1.905)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-			)
-			(symbol "NCP1117-1.5_SOT223_1_1"
-				(pin power_in line
-					(at -7.62 0 0)
-					(length 2.54)
-					(name "VI"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 0 -7.62 90)
-					(length 2.54)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_out line
-					(at 7.62 0 180)
-					(length 2.54)
-					(name "VO"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "challenge symbols:ABM8-272-T3"
 			(pin_names
 				(offset 0.254)
@@ -6128,7 +5991,7 @@
 		(at 493.014 386.842 0)
 		(effects
 			(font
-				(size 4 4)
+				(size 2.54 2.54)
 			)
 			(justify left bottom)
 		)
@@ -6196,12 +6059,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1758b46e-7a85-4f09-be7c-f651519d2414")
-	)
-	(junction
-		(at 190.5 66.04)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "17f077a2-24d0-4320-b7fa-8cb2e4e60d86")
 	)
 	(junction
 		(at 384.81 356.87)
@@ -6306,12 +6163,6 @@
 		(uuid "52a7b2fe-6da0-4eaf-8773-9d7abaa8e8de")
 	)
 	(junction
-		(at 156.21 66.04)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5a713e48-e5f9-455d-8d5f-4bf02ba2e14a")
-	)
-	(junction
 		(at 311.15 128.27)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6372,12 +6223,6 @@
 		(uuid "8bf1e138-8059-47b6-b20e-50b4fb6d5691")
 	)
 	(junction
-		(at 125.73 151.13)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "91fc0447-18bc-4c1c-87f1-c38ea549e9d5")
-	)
-	(junction
 		(at 262.89 115.57)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6406,12 +6251,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b86e8f8b-f847-4ffc-a6cb-77fff99121fb")
-	)
-	(junction
-		(at 91.44 170.18)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "be3c6102-5bcc-4751-bfbd-e0fdb3dd7fb0")
 	)
 	(junction
 		(at 162.56 257.81)
@@ -6859,7 +6698,7 @@
 	)
 	(wire
 		(pts
-			(xy 91.44 170.18) (xy 115.57 170.18)
+			(xy 88.9 170.18) (xy 115.57 170.18)
 		)
 		(stroke
 			(width 0)
@@ -6876,16 +6715,6 @@
 			(type default)
 		)
 		(uuid "380603a7-dbfa-45f9-b33e-847d7b03027b")
-	)
-	(wire
-		(pts
-			(xy 177.8 77.47) (xy 177.8 73.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "38442e97-44e6-45c8-afe4-a04f3cb3cad4")
 	)
 	(wire
 		(pts
@@ -6949,7 +6778,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 148.59) (xy 125.73 151.13)
+			(xy 125.73 148.59) (xy 125.73 165.1)
 		)
 		(stroke
 			(width 0)
@@ -7056,16 +6885,6 @@
 			(type default)
 		)
 		(uuid "4b3601ba-9ab0-4371-8bad-2ca73616cf0b")
-	)
-	(wire
-		(pts
-			(xy 91.44 156.21) (xy 91.44 151.13)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4c508194-f44e-4cdd-9e00-6aee26d5b123")
 	)
 	(wire
 		(pts
@@ -7186,16 +7005,6 @@
 			(type default)
 		)
 		(uuid "5894251c-76f8-4c5a-b73f-222f8ec4e7eb")
-	)
-	(wire
-		(pts
-			(xy 185.42 66.04) (xy 190.5 66.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "58d5eb69-0368-4383-9a94-54e457a48239")
 	)
 	(wire
 		(pts
@@ -7509,16 +7318,6 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 170.18) (xy 91.44 170.18)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "78c96ee1-2ba8-41f8-ba35-6e1e131cb6f8")
-	)
-	(wire
-		(pts
 			(xy 60.96 321.31) (xy 60.96 326.39)
 		)
 		(stroke
@@ -7669,16 +7468,6 @@
 	)
 	(wire
 		(pts
-			(xy 91.44 170.18) (xy 91.44 163.83)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "89ffbccd-51be-4886-b4bc-8787d9cee255")
-	)
-	(wire
-		(pts
 			(xy 265.43 334.01) (xy 265.43 347.98)
 		)
 		(stroke
@@ -7796,16 +7585,6 @@
 			(type default)
 		)
 		(uuid "924ef407-2ab2-4479-b221-6b7c61fbc172")
-	)
-	(wire
-		(pts
-			(xy 190.5 57.15) (xy 190.5 66.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "927a6619-0704-44bc-9915-e744377e1ed6")
 	)
 	(wire
 		(pts
@@ -8129,16 +7908,6 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 151.13) (xy 125.73 165.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cc9e8c8b-583d-4642-9206-43a95cf430ef")
-	)
-	(wire
-		(pts
 			(xy 162.56 257.81) (xy 160.02 257.81)
 		)
 		(stroke
@@ -8329,16 +8098,6 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 66.04) (xy 170.18 66.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e49eaed4-0691-4a77-be19-3d9c3cd2cf9d")
-	)
-	(wire
-		(pts
 			(xy 300.99 227.33) (xy 300.99 224.79)
 		)
 		(stroke
@@ -8356,16 +8115,6 @@
 			(type default)
 		)
 		(uuid "e66a4f0d-783f-4a2d-8498-490d0fdb0d11")
-	)
-	(wire
-		(pts
-			(xy 91.44 151.13) (xy 125.73 151.13)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e66ae0cc-5fac-489c-b5f1-44dac8929f90")
 	)
 	(wire
 		(pts
@@ -8406,16 +8155,6 @@
 			(type default)
 		)
 		(uuid "e90d9243-d948-4ee1-8c21-e6a0625b9358")
-	)
-	(wire
-		(pts
-			(xy 190.5 66.04) (xy 190.5 69.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "eb671501-f55b-4dff-9e58-28aeaebb3a1e")
 	)
 	(wire
 		(pts
@@ -9166,6 +8905,22 @@
 				(hide yes)
 			)
 		)
+		(property "JLC Link" "https://jlcpcb.com/partdetail/TORCH-CT41G_0603_2X1_50V_0_1_F_K_N/C125205"
+			(at 262.89 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C125205"
+			(at 262.89 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "a47503e0-c107-4724-925c-5302aad688c4")
 		)
@@ -9303,6 +9058,22 @@
 				(hide yes)
 			)
 		)
+		(property "JLC Link" "https://jlcpcb.com/partdetail/TORCH-CT41G_0603_2X1_50V_0_1_F_K_N/C125205"
+			(at 147.32 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C125205"
+			(at 147.32 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "43f61af0-4b47-4cf3-b193-0ea1acb69df0")
 		)
@@ -9313,76 +9084,6 @@
 			(project "template"
 				(path "/612ece3f-e722-4b33-8111-645d24cfcf05"
 					(reference "C21")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 190.5 73.66 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "09ff613e-8d1f-4b10-90dd-a593bb957cb8")
-		(property "Reference" "C20"
-			(at 194.31 72.3899 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "10 uF"
-			(at 194.31 74.9299 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 189.5348 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 190.5 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 190.5 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c800b4c5-bfeb-439e-9d2a-037a4729f71d")
-		)
-		(pin "2"
-			(uuid "1176929f-e768-40f8-9ca0-023f13380ac9")
-		)
-		(instances
-			(project "template"
-				(path "/612ece3f-e722-4b33-8111-645d24cfcf05"
-					(reference "C20")
 					(unit 1)
 				)
 			)
@@ -9441,6 +9142,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "JLC Link" "https://jlcpcb.com/partdetail/1944-CL10A105KO8NNNC/C1592"
+			(at 325.12 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C1592"
+			(at 325.12 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -9775,6 +9492,22 @@
 				(hide yes)
 			)
 		)
+		(property "JLC Link" "https://jlcpcb.com/partdetail/2043-CL10A106MQ8NNNC/C1691"
+			(at 156.21 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C1691"
+			(at 156.21 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "176ff206-9f3b-4fb4-b084-a2df12ccf169")
 		)
@@ -9970,6 +9703,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 271.78 328.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC Link" "https://jlcpcb.com/partdetail/MicrochipTech-MCP25625T_EML/C191253"
+			(at 271.78 328.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "     C191253"
 			(at 271.78 328.93 0)
 			(effects
 				(font
@@ -10392,6 +10143,22 @@
 				(hide yes)
 			)
 		)
+		(property "JLC Link" "https://jlcpcb.com/partdetail/TORCH-CT41G_0603_2X1_50V_0_1_F_K_N/C125205"
+			(at 370.84 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C125205"
+			(at 370.84 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "9b58776c-78d0-485a-89fb-543c4fded63d")
 		)
@@ -10458,6 +10225,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "JLC Link" "https://jlcpcb.com/partdetail/1958-0603B224K250NT/C1606"
+			(at 402.59 341.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C1606"
+			(at 402.59 341.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -10528,6 +10311,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "JLC Link" "https://jlcpcb.com/partdetail/TORCH-CT41G_0603_2X1_50V_0_1_F_K_N/C125205"
+			(at 341.63 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C125205"
+			(at 341.63 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -10666,6 +10465,22 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C2889391"
+			(at 85.09 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Link" "https://jlcpcb.com/partdetail/Vo-0603_5_1K/C2889391"
+			(at 85.09 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "56dba1e6-7e64-47ac-a0dd-e56f84e2b5d1")
 		)
@@ -10802,6 +10617,22 @@
 				(hide yes)
 			)
 		)
+		(property "JLC Link" "https://jlcpcb.com/partdetail/TORCH-CT41G_0603_2X1_50V_0_1_F_K_N/C125205"
+			(at 386.08 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C125205"
+			(at 386.08 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "12367235-93e1-4580-9e69-7ac6805a24f0")
 		)
@@ -10872,6 +10703,22 @@
 				(hide yes)
 			)
 		)
+		(property "JLC Link" "https://jlcpcb.com/partdetail/TORCH-CT41G_0603_2X1_50V_0_1_F_K_N/C125205"
+			(at 276.86 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C125205"
+			(at 276.86 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "1b39a148-31e0-4218-a6b3-38312c31de2d")
 		)
@@ -10938,6 +10785,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "JLC Link" "https://jlcpcb.com/partdetail/Korean_HropartsElec-TF01A/C91145"
+			(at 403.86 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C91145"
+			(at 403.86 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -11161,6 +11024,22 @@
 				(hide yes)
 			)
 		)
+		(property "JLC Link" "https://jlcpcb.com/partdetail/Yageo-CC0603JRNPO9BN150/C107037"
+			(at 156.21 257.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C107037"
+			(at 156.21 257.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f04535a3-7924-47cb-9380-52f8a213b984")
 		)
@@ -11295,6 +11174,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "JLC Link" "https://jlcpcb.com/partdetail/25933-0603WAF270JT5E/C25190"
+			(at 266.7 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C25190"
+			(at 266.7 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -11433,6 +11328,22 @@
 				(hide yes)
 			)
 		)
+		(property "JLC Link" "https://jlcpcb.com/partdetail/TORCH-CT41G_0603_2X1_50V_0_1_F_K_N/C125205"
+			(at 400.05 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C125205"
+			(at 400.05 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "2dae3f2c-6427-477c-a352-b5b08ffc7eb5")
 		)
@@ -11499,6 +11410,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "JLC Link" "https://jlcpcb.com/partdetail/1942-CL10B104KA8NNNC/C1590"
+			(at 261.62 347.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C1590"
+			(at 261.62 347.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -11704,6 +11631,22 @@
 				(hide yes)
 			)
 		)
+		(property "JLC Link" "https://jlcpcb.com/partdetail/1942-CL10B104KA8NNNC/C1590"
+			(at 374.65 367.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C1590"
+			(at 374.65 367.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "84834441-a326-4b13-8241-d8e6c2144f0f")
 		)
@@ -11901,6 +11844,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "JLC Link" "https://jlcpcb.com/partdetail/Yageo-CC0603JRNPO9BN150/C107037"
+			(at 156.21 274.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C107037"
+			(at 156.21 274.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -12919,6 +12878,22 @@
 				(hide yes)
 			)
 		)
+		(property "JLC Link" "https://jlcpcb.com/partdetail/Made_inChina-2_54mm_12P/C36717"
+			(at 54.61 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C36717"
+			(at 54.61 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "b96a203e-7ba3-4361-9ab5-397303ea4524")
 		)
@@ -13054,6 +13029,22 @@
 				(hide yes)
 			)
 		)
+		(property "JLC Link" "https://jlcpcb.com/partdetail/25933-0603WAF270JT5E/C25190"
+			(at 266.7 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C25190"
+			(at 266.7 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "ebb0fed1-d4b7-45aa-9849-54c3fa089783")
 		)
@@ -13130,72 +13121,6 @@
 			(project ""
 				(path "/612ece3f-e722-4b33-8111-645d24cfcf05"
 					(reference "#PWR033")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 177.8 77.47 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "98e9c0be-d96b-476a-a1e0-3730fe7dc481")
-		(property "Reference" "#PWR036"
-			(at 177.8 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 177.8 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 177.8 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 177.8 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 177.8 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "eafa49b6-ad47-40ef-ab3f-b01cc0242348")
-		)
-		(instances
-			(project "template"
-				(path "/612ece3f-e722-4b33-8111-645d24cfcf05"
-					(reference "#PWR036")
 					(unit 1)
 				)
 			)
@@ -13626,6 +13551,22 @@
 				(hide yes)
 			)
 		)
+		(property "JLC Link" "https://jlcpcb.com/partdetail/TORCH-CT41G_0603_2X1_50V_0_1_F_K_N/C125205"
+			(at 414.02 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C125205"
+			(at 414.02 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "4aa29128-8f8e-4508-ba26-8152cf49d332")
 		)
@@ -13636,75 +13577,6 @@
 			(project "template"
 				(path "/612ece3f-e722-4b33-8111-645d24cfcf05"
 					(reference "C16")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 91.44 160.02 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "a4ab476f-dd30-4693-aacb-bb4182fb4067")
-		(property "Reference" "R7"
-			(at 93.98 161.544 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "DNF"
-			(at 96.012 161.036 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 89.662 160.02 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 91.44 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 91.44 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "0b463bd8-41df-4b12-8367-5e4ed412596e")
-		)
-		(pin "1"
-			(uuid "6b659729-d9b9-489b-b780-6734a3c0da13")
-		)
-		(instances
-			(project "template"
-				(path "/612ece3f-e722-4b33-8111-645d24cfcf05"
-					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -13897,6 +13769,22 @@
 				(hide yes)
 			)
 		)
+		(property "JLC Link" "https://jlcpcb.com/partdetail/TORCH-CT41G_0603_2X1_50V_0_1_F_K_N/C125205"
+			(at 327.66 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C125205"
+			(at 327.66 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "6fba3d52-0e15-4076-878c-a8585961b17f")
 		)
@@ -13966,6 +13854,22 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C2889391"
+			(at 201.93 260.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Link" "https://jlcpcb.com/partdetail/Vo-0603_5_1K/C2889391"
+			(at 201.93 260.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "32a55877-448c-4f03-bacf-e8638160182c")
 		)
@@ -13976,77 +13880,6 @@
 			(project "template"
 				(path "/612ece3f-e722-4b33-8111-645d24cfcf05"
 					(reference "R3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Regulator_Linear:NCP1117-1.5_SOT223")
-		(at 177.8 66.04 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "bf05c931-c939-4501-b018-daaa0a7f9002")
-		(property "Reference" "U3"
-			(at 177.8 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "NCP1117-1.5_SOT223"
-			(at 177.8 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
-			(at 177.8 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.onsemi.com/pub_link/Collateral/NCP1117-D.PDF"
-			(at 180.34 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "1A Low drop-out regulator, Fixed Output 1.5V, SOT-223"
-			(at 177.8 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "14081e38-66a6-44bc-8a5f-ce7d8ee89f56")
-		)
-		(pin "1"
-			(uuid "5abcd7c7-5556-42c4-9bbf-8c1dcfaca658")
-		)
-		(pin "2"
-			(uuid "a2760fa8-cca9-4382-a9b7-96f9dfecc565")
-		)
-		(instances
-			(project ""
-				(path "/612ece3f-e722-4b33-8111-645d24cfcf05"
-					(reference "U3")
 					(unit 1)
 				)
 			)
@@ -14264,6 +14097,22 @@
 				(hide yes)
 			)
 		)
+		(property "JLC Link" "https://jlcpcb.com/partdetail/1942-CL10B104KA8NNNC/C1590"
+			(at 257.81 330.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C1590"
+			(at 257.81 330.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "82d0d39b-d686-4698-b29a-0c6bf0c17bbf")
 		)
@@ -14307,7 +14156,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 275.8948 121.92 0)
 			(effects
 				(font
@@ -14332,6 +14181,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "JLC Link" "https://jlcpcb.com/partdetail/1944-CL10A105KO8NNNC/C1592"
+			(at 276.86 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C1592"
+			(at 276.86 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -14536,6 +14401,22 @@
 				(hide yes)
 			)
 		)
+		(property "JLC Link" "https://jlcpcb.com/partdetail/TORCH-CT41G_0603_2X1_50V_0_1_F_K_N/C125205"
+			(at 356.87 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C125205"
+			(at 356.87 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "629bb43f-9eec-41bb-b4b6-059991559a85")
 		)
@@ -14603,6 +14484,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "JLC Link" "https://jlcpcb.com/partdetail/AbraconLlc-ABM8_272T3/C20625731"
+			(at 166.37 257.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C20625731"
+			(at 166.37 257.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "3"
@@ -14677,6 +14574,22 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "JLC Link" "https://jlcpcb.com/partdetail/1958-0603B224K250NT/C1606"
+			(at 402.59 356.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C1606"
+			(at 402.59 356.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -14870,6 +14783,22 @@
 				(hide yes)
 			)
 		)
+		(property "JLC Link" "https://jlcpcb.com/partdetail/YangxingTech-X322516MLB4SI/C13738"
+			(at 384.81 349.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C13738"
+			(at 384.81 349.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "4"
 			(uuid "1bc92501-3d3f-4f5c-99a5-e6da6686c5d4")
 		)
@@ -14886,72 +14815,6 @@
 			(project ""
 				(path "/612ece3f-e722-4b33-8111-645d24cfcf05"
 					(reference "Y1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3.3V")
-		(at 190.5 57.15 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ed66c09a-b943-473d-804b-b84fa12cd7db")
-		(property "Reference" "#PWR037"
-			(at 190.5 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3.3V"
-			(at 190.5 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 190.5 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 190.5 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 190.5 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "483440db-2060-4205-bb79-f67be560071e")
-		)
-		(instances
-			(project ""
-				(path "/612ece3f-e722-4b33-8111-645d24cfcf05"
-					(reference "#PWR037")
 					(unit 1)
 				)
 			)
