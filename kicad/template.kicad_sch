@@ -8861,7 +8861,7 @@
 		(fields_autoplaced yes)
 		(uuid "02cdc588-28e5-4a67-a81a-fc5968bba198")
 		(property "Reference" "C8"
-			(at 266.7 110.4899 0)
+			(at 266.7 109.2199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8870,7 +8870,7 @@
 			)
 		)
 		(property "Value" "100 nF"
-			(at 266.7 113.0299 0)
+			(at 266.7 111.7599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8911,14 +8911,16 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "LCSC Part #" "C125205"
-			(at 262.89 111.76 0)
+			(at 266.7 114.2999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(pin "1"
@@ -9064,14 +9066,17 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "LCSC Part #" "C125205"
-			(at 147.32 161.29 0)
+			(at 151.13 163.8299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -9150,14 +9155,17 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "LCSC Part #" "C1592"
-			(at 325.12 123.19 0)
+			(at 328.93 125.7299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -9448,7 +9456,7 @@
 		(fields_autoplaced yes)
 		(uuid "173ba057-a1e2-45bd-8738-dd64f2f0040c")
 		(property "Reference" "C19"
-			(at 160.02 68.5799 0)
+			(at 160.02 67.3099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9457,7 +9465,7 @@
 			)
 		)
 		(property "Value" "10 uF"
-			(at 160.02 71.1199 0)
+			(at 160.02 69.8499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9498,14 +9506,16 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "LCSC Part #" "C1691"
-			(at 156.21 69.85 0)
+			(at 160.02 72.3899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(pin "1"
@@ -10149,14 +10159,17 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "LCSC Part #" "C125205"
-			(at 370.84 93.98 0)
+			(at 374.65 96.5199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -10233,14 +10246,16 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "LCSC Part #" "C1606"
-			(at 402.59 341.63 0)
+			(at 402.59 336.55 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -10319,14 +10334,17 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "LCSC Part #" "C125205"
-			(at 341.63 93.98 0)
+			(at 345.44 96.5199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -10471,6 +10489,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "JLC Link" "https://jlcpcb.com/partdetail/Vo-0603_5_1K/C2889391"
@@ -10479,6 +10498,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -10623,14 +10643,17 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "LCSC Part #" "C125205"
-			(at 386.08 93.98 0)
+			(at 389.89 96.5199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -10659,7 +10682,7 @@
 		(fields_autoplaced yes)
 		(uuid "3c205344-79c0-48c6-ba0c-7d033f7a4e5b")
 		(property "Reference" "C7"
-			(at 280.67 110.4899 0)
+			(at 280.67 109.2199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10668,7 +10691,7 @@
 			)
 		)
 		(property "Value" "100 nF"
-			(at 280.67 113.0299 0)
+			(at 280.67 111.7599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10709,14 +10732,16 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "LCSC Part #" "C125205"
-			(at 276.86 111.76 0)
+			(at 280.67 114.2999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(pin "1"
@@ -10793,14 +10818,16 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "LCSC Part #" "C91145"
-			(at 403.86 138.43 0)
+			(at 404.495 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -11030,14 +11057,16 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "LCSC Part #" "C107037"
-			(at 156.21 257.81 0)
+			(at 156.21 252.73 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -11182,6 +11211,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "LCSC Part #" "C25190"
@@ -11190,6 +11220,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -11334,14 +11365,17 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "LCSC Part #" "C125205"
-			(at 400.05 93.98 0)
+			(at 403.86 96.5199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -11418,14 +11452,16 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "LCSC Part #" "C1590"
-			(at 261.62 347.98 0)
+			(at 261.62 342.9 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -11637,14 +11673,17 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "LCSC Part #" "C1590"
-			(at 374.65 367.03 0)
+			(at 378.46 369.5699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -11852,14 +11891,16 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "LCSC Part #" "C107037"
-			(at 156.21 274.32 0)
+			(at 156.21 269.24 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -12836,7 +12877,7 @@
 		(fields_autoplaced yes)
 		(uuid "841046d2-d707-4be0-ade4-51ccf23337d0")
 		(property "Reference" "J3"
-			(at 55.245 165.1 0)
+			(at 55.245 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12844,7 +12885,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02_Pin"
-			(at 55.245 167.64 0)
+			(at 55.245 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12884,10 +12925,11 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "LCSC Part #" "C36717"
-			(at 54.61 170.18 0)
+			(at 55.245 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13035,6 +13077,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "LCSC Part #" "C25190"
@@ -13043,6 +13086,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -13507,7 +13551,7 @@
 		(fields_autoplaced yes)
 		(uuid "a221084f-c443-4791-800a-8c1d9e6d2e9d")
 		(property "Reference" "C16"
-			(at 417.83 92.7099 0)
+			(at 417.83 91.4399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13516,7 +13560,7 @@
 			)
 		)
 		(property "Value" "100 nF"
-			(at 417.83 95.2499 0)
+			(at 417.83 93.9799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13557,14 +13601,16 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "LCSC Part #" "C125205"
-			(at 414.02 93.98 0)
+			(at 417.83 96.5199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(pin "1"
@@ -13775,14 +13821,17 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "LCSC Part #" "C125205"
-			(at 327.66 93.98 0)
+			(at 331.47 96.5199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -13860,6 +13909,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "JLC Link" "https://jlcpcb.com/partdetail/Vo-0603_5_1K/C2889391"
@@ -13868,6 +13918,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -14103,6 +14154,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "LCSC Part #" "C1590"
@@ -14111,6 +14163,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -14139,7 +14192,7 @@
 		(fields_autoplaced yes)
 		(uuid "d50b3984-ca46-4412-8575-4143ed622198")
 		(property "Reference" "C6"
-			(at 280.67 124.4599 0)
+			(at 280.67 123.1899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14148,7 +14201,7 @@
 			)
 		)
 		(property "Value" "1 uF"
-			(at 280.67 126.9999 0)
+			(at 280.67 125.7299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14189,14 +14242,16 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "LCSC Part #" "C1592"
-			(at 276.86 125.73 0)
+			(at 280.67 128.2699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(pin "1"
@@ -14407,14 +14462,17 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "LCSC Part #" "C125205"
-			(at 356.87 93.98 0)
+			(at 360.68 96.5199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -14492,6 +14550,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "LCSC Part #" "C20625731"
@@ -14500,6 +14559,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "3"
@@ -14582,14 +14642,16 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "LCSC Part #" "C1606"
-			(at 402.59 356.87 0)
+			(at 402.59 351.79 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -14789,14 +14851,17 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "LCSC Part #" "C13738"
-			(at 384.81 349.25 0)
+			(at 388.62 351.7899 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
+				(hide yes)
 			)
 		)
 		(pin "4"
