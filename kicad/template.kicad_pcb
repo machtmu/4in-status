@@ -13793,7 +13793,7 @@
 	(footprint "Nicolas Library:SW_TS-1187A-B-A-B"
 		(layer "F.Cu")
 		(uuid "e4a25e79-83f1-4d25-9ffb-161d6b9aac56")
-		(at 176.31 101.375)
+		(at 174.91 101.55)
 		(property "Reference" "S8"
 			(at -0.825 -3.635 0)
 			(layer "F.SilkS")
