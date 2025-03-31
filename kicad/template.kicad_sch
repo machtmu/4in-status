@@ -6318,6 +6318,16 @@
 		)
 		(uuid "003838df-259b-44a4-9127-a5d6d3b779e3")
 	)
+	(text "LCD1\n\n"
+		(exclude_from_sim no)
+		(at 387.858 196.088 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "1fa6354f-d167-4d38-b219-03e6c96a1a51")
+	)
 	(text "RP2040 Crystal"
 		(exclude_from_sim no)
 		(at 164.465 247.65 0)
@@ -6385,7 +6395,7 @@
 	)
 	(text "LCD Screen\n"
 		(exclude_from_sim no)
-		(at 397.256 182.118 0)
+		(at 394.97 167.64 0)
 		(effects
 			(font
 				(size 1.27 1.27)
