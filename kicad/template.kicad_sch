@@ -6813,16 +6813,8 @@
 		(uuid "20b0a272-8fab-4468-b21b-7441b2bc3973")
 	)
 	(no_connect
-		(at 137.16 73.66)
-		(uuid "3405a717-c494-4e50-ab38-2c56b7fa6568")
-	)
-	(no_connect
 		(at 60.96 346.71)
 		(uuid "42471cee-e602-43fa-8392-a2e6413f774a")
-	)
-	(no_connect
-		(at 137.16 71.12)
-		(uuid "42d6a0df-af45-499f-8350-d4e85a6adcd3")
 	)
 	(no_connect
 		(at 60.96 275.59)
@@ -10822,7 +10814,7 @@
 		(fields_autoplaced yes)
 		(uuid "173ba057-a1e2-45bd-8738-dd64f2f0040c")
 		(property "Reference" "C19"
-			(at 160.02 67.3099 0)
+			(at 160.02 68.5799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10831,7 +10823,7 @@
 			)
 		)
 		(property "Value" "10 uF"
-			(at 160.02 69.8499 0)
+			(at 160.02 71.1199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10882,6 +10874,7 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
 		(pin "1"
