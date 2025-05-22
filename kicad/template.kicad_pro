@@ -472,9 +472,9 @@
       {
         "bus_width": 12,
         "clearance": 0.1,
-        "diff_pair_gap": 0.25,
+        "diff_pair_gap": 0.45,
         "diff_pair_via_gap": 0.25,
-        "diff_pair_width": 0.2,
+        "diff_pair_width": 0.0,
         "line_style": 0,
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
@@ -490,31 +490,12 @@
       {
         "bus_width": 12,
         "clearance": 0.1,
-        "diff_pair_gap": 0.1326,
-        "diff_pair_via_gap": 0.25,
-        "diff_pair_width": 0.16,
+        "diff_pair_gap": 0.15,
+        "diff_pair_width": 0.2,
         "line_style": 0,
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "CANDIFF",
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 0,
-        "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.16,
-        "via_diameter": 0.4,
-        "via_drill": 0.3,
-        "wire_width": 6
-      },
-      {
-        "bus_width": 12,
-        "clearance": 0.1,
-        "diff_pair_gap": 0.1,
-        "diff_pair_via_gap": 0.25,
-        "diff_pair_width": 0.487,
-        "line_style": 0,
-        "microvia_diameter": 0.3,
-        "microvia_drill": 0.1,
-        "name": "USB_DIFF_90",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 1,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
@@ -522,6 +503,20 @@
         "via_diameter": 0.4,
         "via_drill": 0.3,
         "wire_width": 6
+      },
+      {
+        "clearance": 0.1,
+        "diff_pair_gap": 0.1,
+        "diff_pair_width": 0.48,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "USBDIFF",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 0,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.15,
+        "via_diameter": 0.4,
+        "via_drill": 0.3
       }
     ],
     "meta": {
@@ -531,20 +526,20 @@
     "netclass_assignments": null,
     "netclass_patterns": [
       {
-        "netclass": "USB_DIFF_90",
-        "pattern": "USB_D-"
-      },
-      {
-        "netclass": "USB_DIFF_90",
-        "pattern": "USB_D+"
-      },
-      {
         "netclass": "CANDIFF",
         "pattern": "CANP"
       },
       {
         "netclass": "CANDIFF",
         "pattern": "CANN"
+      },
+      {
+        "netclass": "USBDIFF",
+        "pattern": "/USB_N"
+      },
+      {
+        "netclass": "USBDIFF",
+        "pattern": "/USB_P"
       }
     ]
   },
