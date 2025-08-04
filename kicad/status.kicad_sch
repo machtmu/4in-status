@@ -7516,6 +7516,12 @@
 		(uuid "1b6cbe88-a8f0-41ac-a9d5-7fe8f6b135c3")
 	)
 	(junction
+		(at 430.53 115.57)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1dc0e1aa-07eb-4bb1-b934-f35dfad43543")
+	)
+	(junction
 		(at 384.81 341.63)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7660,6 +7666,12 @@
 		(uuid "6a8d27a2-9b98-4bda-9e56-211a308f992a")
 	)
 	(junction
+		(at 407.67 115.57)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "716b3ba0-68f6-4e66-8637-300e0cd0eb79")
+	)
+	(junction
 		(at 287.02 106.68)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7720,6 +7732,12 @@
 		(uuid "c13f69f1-df3f-4729-9f9e-a4b596cfc164")
 	)
 	(junction
+		(at 400.05 115.57)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c16375f6-6563-412c-97ff-8b2c9c26a4b9")
+	)
+	(junction
 		(at 370.84 102.87)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7748,6 +7766,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "cc3df0ec-0033-4c7c-b1ed-3f5d85debbd3")
+	)
+	(junction
+		(at 414.02 115.57)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d0732024-e6cf-47b6-8394-8ce408804e52")
 	)
 	(junction
 		(at 370.84 87.63)
@@ -7864,10 +7888,6 @@
 		(uuid "4bde55bd-87ac-4171-9f72-f90cab3ea419")
 	)
 	(no_connect
-		(at 434.34 134.62)
-		(uuid "4ef06db1-f0d3-4cb9-9832-3235455750c5")
-	)
-	(no_connect
 		(at 60.96 351.79)
 		(uuid "57e8a5fd-5fba-4cf7-bee2-0fb7ecf0c975")
 	)
@@ -7902,10 +7922,6 @@
 	(no_connect
 		(at 271.78 346.71)
 		(uuid "8eefa30e-a02e-48c0-8ba4-7acb772aba74")
-	)
-	(no_connect
-		(at 434.34 132.08)
-		(uuid "936fed9e-5685-444a-a4ea-77e8c57070cb")
 	)
 	(no_connect
 		(at 322.58 344.17)
@@ -7978,6 +7994,26 @@
 			(type default)
 		)
 		(uuid "02c200c9-56eb-4c2f-b443-44ba2ba6d9e0")
+	)
+	(wire
+		(pts
+			(xy 430.53 115.57) (xy 430.53 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "036587b8-a1ef-4d3a-8f7c-f4265e4915c3")
+	)
+	(wire
+		(pts
+			(xy 414.02 116.84) (xy 414.02 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "044bd73b-388d-41ef-8036-02ada4bbed34")
 	)
 	(wire
 		(pts
@@ -8138,6 +8174,16 @@
 			(type default)
 		)
 		(uuid "1d371b39-c6d7-46a8-ab65-65a8f4c6dcd3")
+	)
+	(wire
+		(pts
+			(xy 400.05 115.57) (xy 407.67 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1dbe8cf0-2846-46db-a8a2-bd32b7a1d92d")
 	)
 	(wire
 		(pts
@@ -8421,6 +8467,16 @@
 	)
 	(wire
 		(pts
+			(xy 400.05 132.08) (xy 434.34 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3cf845b5-ea4a-4ee2-b2a8-01554e4aa0f1")
+	)
+	(wire
+		(pts
 			(xy 414.02 102.87) (xy 400.05 102.87)
 		)
 		(stroke
@@ -8448,6 +8504,16 @@
 			(type default)
 		)
 		(uuid "40db1d29-8839-479c-bb6c-e34e7cffe32b")
+	)
+	(wire
+		(pts
+			(xy 391.16 124.46) (xy 391.16 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4102351b-1ecc-49f8-8d7b-bae09d868d3b")
 	)
 	(wire
 		(pts
@@ -8678,16 +8744,6 @@
 			(type default)
 		)
 		(uuid "5605c31b-a4e2-4150-bbb8-489cff0a6d81")
-	)
-	(wire
-		(pts
-			(xy 426.72 129.54) (xy 434.34 129.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5617ffb7-42ff-4ece-a3e4-d806aaa772be")
 	)
 	(wire
 		(pts
@@ -9051,6 +9107,16 @@
 	)
 	(wire
 		(pts
+			(xy 414.02 115.57) (xy 430.53 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7959edf0-2f25-4ef3-8921-e0033fd6f311")
+	)
+	(wire
+		(pts
 			(xy 60.96 321.31) (xy 60.96 326.39)
 		)
 		(stroke
@@ -9271,6 +9337,16 @@
 	)
 	(wire
 		(pts
+			(xy 414.02 124.46) (xy 434.34 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8fd66bf7-4772-454c-9d0c-bfec97dac7b7")
+	)
+	(wire
+		(pts
 			(xy 370.84 102.87) (xy 386.08 102.87)
 		)
 		(stroke
@@ -9371,6 +9447,26 @@
 	)
 	(wire
 		(pts
+			(xy 391.16 116.84) (xy 391.16 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9b2501af-5e96-4eab-9226-455784a9340a")
+	)
+	(wire
+		(pts
+			(xy 407.67 129.54) (xy 434.34 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9b94bd65-2708-4e1a-b1ea-f7ed584963a9")
+	)
+	(wire
+		(pts
 			(xy 384.81 356.87) (xy 398.78 356.87)
 		)
 		(stroke
@@ -9401,13 +9497,13 @@
 	)
 	(wire
 		(pts
-			(xy 427.99 119.38) (xy 434.34 119.38)
+			(xy 400.05 116.84) (xy 400.05 115.57)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "a1384c03-bf01-444b-93a3-f7f3e74bc572")
+		(uuid "9efaf237-a3e9-40f0-858f-da3347d9b32a")
 	)
 	(wire
 		(pts
@@ -9508,6 +9604,16 @@
 			(type default)
 		)
 		(uuid "a76c4974-59bd-4f7f-b247-af2f286d36e2")
+	)
+	(wire
+		(pts
+			(xy 400.05 124.46) (xy 400.05 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a8bbea59-542c-47a7-bfc8-51536aceb4ab")
 	)
 	(wire
 		(pts
@@ -9691,6 +9797,16 @@
 	)
 	(wire
 		(pts
+			(xy 407.67 124.46) (xy 407.67 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c0d19fd3-102e-408f-8748-ae848050fb32")
+	)
+	(wire
+		(pts
 			(xy 96.52 336.55) (xy 91.44 336.55)
 		)
 		(stroke
@@ -9718,6 +9834,16 @@
 			(type default)
 		)
 		(uuid "c1bfcb8b-26e5-4996-987d-ba61a1dab50d")
+	)
+	(wire
+		(pts
+			(xy 407.67 115.57) (xy 414.02 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c2862da3-5cbc-4c8b-b119-f90d40e6b2de")
 	)
 	(wire
 		(pts
@@ -9878,6 +10004,16 @@
 			(type default)
 		)
 		(uuid "d4b82563-a990-4c5f-844e-80bc58cfa5bc")
+	)
+	(wire
+		(pts
+			(xy 391.16 134.62) (xy 434.34 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d4d50542-1305-4778-816f-98c658da8c98")
 	)
 	(wire
 		(pts
@@ -10061,16 +10197,6 @@
 	)
 	(wire
 		(pts
-			(xy 427.99 124.46) (xy 434.34 124.46)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e7aa8751-c35d-4815-b95c-6c8dc62b9470")
-	)
-	(wire
-		(pts
 			(xy 149.86 71.12) (xy 146.05 71.12)
 		)
 		(stroke
@@ -10078,6 +10204,16 @@
 			(type default)
 		)
 		(uuid "e810aca7-05c1-4c52-bf95-6dc0d4d44fbf")
+	)
+	(wire
+		(pts
+			(xy 407.67 116.84) (xy 407.67 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e89a2286-76e7-44a2-b8fd-d9766a303f1e")
 	)
 	(wire
 		(pts
@@ -10141,6 +10277,16 @@
 	)
 	(wire
 		(pts
+			(xy 430.53 111.76) (xy 430.53 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ee117330-ddf3-45c4-ab22-c0f64a9e7da2")
+	)
+	(wire
+		(pts
 			(xy 270.51 148.59) (xy 275.59 148.59)
 		)
 		(stroke
@@ -10201,6 +10347,16 @@
 	)
 	(wire
 		(pts
+			(xy 430.53 119.38) (xy 434.34 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f9b39cc4-c0a7-4434-a74c-218aa8eb46e7")
+	)
+	(wire
+		(pts
 			(xy 255.27 214.63) (xy 250.19 214.63)
 		)
 		(stroke
@@ -10228,6 +10384,16 @@
 			(type default)
 		)
 		(uuid "fc580ff8-fd64-48bf-a3b5-59b28e81f55d")
+	)
+	(wire
+		(pts
+			(xy 391.16 115.57) (xy 400.05 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fcd25a46-9e1a-45b0-a31a-1a236145e6ea")
 	)
 	(wire
 		(pts
@@ -14360,6 +14526,109 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 400.05 120.65 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3866552f-0b64-4e69-9e91-0788828af749")
+		(property "Reference" "R18"
+			(at 397.256 124.46 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10K"
+			(at 397.256 120.142 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 398.272 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 400.05 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 400.05 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "    C60490"
+			(at 400.05 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC Link" "https://jlcpcb.com/partdetail/YAGEO-RC0402FR0710KL/C60490"
+			(at 400.05 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 400.05 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 400.05 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "5c6366bc-0686-464e-a19b-3d63e7ad460d")
+		)
+		(pin "1"
+			(uuid "d92fa1f2-676d-4218-a350-92b31e31a747")
+		)
+		(instances
+			(project "status"
+				(path "/612ece3f-e722-4b33-8111-645d24cfcf05"
+					(reference "R18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "TS-1187A-B-A-B:TS-1187A-B-A-B")
 		(at 251.46 139.7 0)
 		(unit 1)
@@ -14852,6 +15121,109 @@
 			(project "template"
 				(path "/612ece3f-e722-4b33-8111-645d24cfcf05"
 					(reference "#PWR061")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 414.02 120.65 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "4491bf5e-a8a0-43d8-a636-b92fc79843dd")
+		(property "Reference" "R16"
+			(at 411.48 124.714 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10K"
+			(at 411.226 120.142 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 412.242 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 414.02 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 414.02 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "    C60490"
+			(at 414.02 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC Link" "https://jlcpcb.com/partdetail/YAGEO-RC0402FR0710KL/C60490"
+			(at 414.02 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 414.02 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 414.02 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "66224c65-6e60-4025-850f-9a0acfd6f96a")
+		)
+		(pin "1"
+			(uuid "a01d00a3-71b7-48f5-9e47-529df8d685fd")
+		)
+		(instances
+			(project "status"
+				(path "/612ece3f-e722-4b33-8111-645d24cfcf05"
+					(reference "R16")
 					(unit 1)
 				)
 			)
@@ -16114,6 +16486,109 @@
 			(project ""
 				(path "/612ece3f-e722-4b33-8111-645d24cfcf05"
 					(reference "#PWR08")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 407.67 120.65 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "6889911f-8a6e-40c2-8074-135b99f9fe67")
+		(property "Reference" "R17"
+			(at 404.876 124.206 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10K"
+			(at 404.876 119.888 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 405.892 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 407.67 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 407.67 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "    C60490"
+			(at 407.67 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC Link" "https://jlcpcb.com/partdetail/YAGEO-RC0402FR0710KL/C60490"
+			(at 407.67 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 407.67 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 407.67 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "324d0228-07d0-4119-b74e-d5b8c9472328")
+		)
+		(pin "1"
+			(uuid "af147574-cb3a-484a-be28-8cedd1bb97ab")
+		)
+		(instances
+			(project "status"
+				(path "/612ece3f-e722-4b33-8111-645d24cfcf05"
+					(reference "R17")
 					(unit 1)
 				)
 			)
@@ -17619,6 +18094,109 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 391.16 120.65 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "90f81986-2680-4e9b-828f-75825743e1f3")
+		(property "Reference" "R19"
+			(at 388.62 124.206 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10K"
+			(at 388.112 119.38 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 389.382 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 391.16 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 391.16 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "    C60490"
+			(at 391.16 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC Link" "https://jlcpcb.com/partdetail/YAGEO-RC0402FR0710KL/C60490"
+			(at 391.16 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 391.16 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 391.16 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "745be5c5-8e35-436d-b084-7d6a7d307160")
+		)
+		(pin "1"
+			(uuid "6a29db23-0f1b-4917-8c3d-1d5566d4fbc4")
+		)
+		(instances
+			(project "status"
+				(path "/612ece3f-e722-4b33-8111-645d24cfcf05"
+					(reference "R19")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+3.3V")
 		(at 382.27 171.45 90)
 		(unit 1)
@@ -18637,6 +19215,72 @@
 			(project "status"
 				(path "/612ece3f-e722-4b33-8111-645d24cfcf05"
 					(reference "#PWR027")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3.3V")
+		(at 430.53 111.76 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "aca7a0a3-8b13-468f-845f-6448ed29c4ef")
+		(property "Reference" "#PWR032"
+			(at 430.53 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3.3V"
+			(at 430.53 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 430.53 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 430.53 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 430.53 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a4fa332d-51ae-4a5a-af4f-20f53c8d98b4")
+		)
+		(instances
+			(project "status"
+				(path "/612ece3f-e722-4b33-8111-645d24cfcf05"
+					(reference "#PWR032")
 					(unit 1)
 				)
 			)
@@ -19823,72 +20467,6 @@
 			(project "template"
 				(path "/612ece3f-e722-4b33-8111-645d24cfcf05"
 					(reference "#PWR037")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3.3V")
-		(at 427.99 119.38 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d948087c-d736-4acf-8621-2306f8995be9")
-		(property "Reference" "#PWR02"
-			(at 427.99 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3.3V"
-			(at 427.99 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 427.99 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 427.99 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 427.99 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "8e751917-fb70-48c7-ac2f-c8ed793bb4c4")
-		)
-		(instances
-			(project ""
-				(path "/612ece3f-e722-4b33-8111-645d24cfcf05"
-					(reference "#PWR02")
 					(unit 1)
 				)
 			)
