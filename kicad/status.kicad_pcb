@@ -17631,6 +17631,7 @@
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "18b94cc4-ad14-455e-a4e7-fc294c6b0bf3")
 			(effects
 				(font
@@ -17812,29 +17813,16 @@
 			(layer "F.SilkS")
 			(uuid "5318a032-248e-4fa3-bbc8-2426c3e5edce")
 		)
-		(fp_poly
-			(pts
-				(xy 3.81 -1.4905) (xy 3.81 -1.1095) (xy 3.556 -1.1095) (xy 3.556 -1.4905)
-			)
+		(fp_circle
+			(center -3.825 -3.05)
+			(end -3.75 -3.05)
 			(stroke
-				(width 0)
+				(width 0.2)
 				(type solid)
 			)
-			(fill yes)
+			(fill no)
 			(layer "F.SilkS")
-			(uuid "67141043-112f-4f42-957b-8e8e0ab2d06d")
-		)
-		(fp_poly
-			(pts
-				(xy -0.840499 3.556) (xy -0.840499 3.81) (xy -0.459499 3.81) (xy -0.459499 3.556)
-			)
-			(stroke
-				(width 0)
-				(type solid)
-			)
-			(fill yes)
-			(layer "F.SilkS")
-			(uuid "8288dec5-f379-4659-939e-4d86434450a7")
+			(uuid "25ef511d-81fa-493b-b11e-fca1b17a49fc")
 		)
 		(fp_poly
 			(pts
@@ -19354,29 +19342,6 @@
 			(layer "F.Fab")
 			(uuid "26c6356e-25e0-4963-9c62-e928ab7c6ab6")
 		)
-		(fp_text user "*"
-			(at -3.937 -2.275 180)
-			(layer "F.SilkS")
-			(uuid "86ff2f12-b4a7-4cea-9346-8b0d31e87dac")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(fp_text user "*"
-			(at -3.937 -2.275 180)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(uuid "fa7cede2-c0d2-4270-9b3e-ebf4f363a585")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 180)
 			(unlocked yes)
@@ -19391,7 +19356,6 @@
 		)
 		(fp_text user "*"
 			(at -2.286 -2.275 180)
-			(unlocked yes)
 			(layer "F.Fab")
 			(uuid "2a8f0938-9940-49ef-9c2a-e5d2c6a2126f")
 			(effects
@@ -19403,8 +19367,9 @@
 		)
 		(fp_text user "*"
 			(at -2.286 -2.275 180)
+			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "92d31bd3-be47-4ad5-80d2-6010e3ce681e")
+			(uuid "2a8f0938-9940-49ef-9c2a-e5d2c6a2126f")
 			(effects
 				(font
 					(size 1 1)
@@ -19674,6 +19639,24 @@
 			(uuid "aadd736a-f115-408a-8660-f2f82c680b44")
 		)
 		(embedded_fonts no)
+		(embedded_files
+			(file
+				(name "MCP25625T-E_ML.STEP")
+				(type model)
+				(checksum "CA15AE13EDEFA27E5AA1E56830838996")
+			)
+		)
+		(model "kicad-embed://MCP25625T-E_ML.STEP"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Nicolas Library:SW_TS-1187A-B-A-B"
 		(layer "F.Cu")
